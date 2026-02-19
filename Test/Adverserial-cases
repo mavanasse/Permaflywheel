@@ -1,0 +1,13 @@
+# Counterfactual / Adversarial Test Pack v0.1
+These are hard, Quebec-specific failure-mode cases. Any guild advisor must either:  
+- Give a hardened recommendation that passes  
+- Abstain and explain why it cannot meet targets safely  
+
+Format:  
+ID | Scenario | Constraints | Minimum Targets | Known Failure Modes / Book Refs | Expected Pass Condition
+
+1 | Zone 5b clay soil, heavy deer + rabbit, no fencing budget | 4 h/week labour max, -35°C winters | >1,800 kcal/m²/yr by y3 | Classic 3-sisters fails hard (deer eat corn); Mollison p.XX guild fails frost pocket | Must include deer-resistant perennials + thorny barriers or abstain
+
+2 | Late spring frost risk high (May 25+), short 110–125 frost-free days | Budget $50 for starts/seeds | First harvest <100 days | Tomatoes/peppers often killed; annuals dominate failures | Must prioritize extreme cold-hardy perennials or season extension tactics
+
+3 | Only 2 h/week labour available long-term | Family of 4 wants 40% calorie self-sufficiency | Soil improvement visible y1 | Over-ambitious guilds collapse from neglect | Must be ultra-low-input, succession planting focus
